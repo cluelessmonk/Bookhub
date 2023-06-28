@@ -24,11 +24,8 @@ A complete e-commerce app built on the MERN stack that sells developer books.
 - Payment gateway (Braintree and Paypal)
 - View Product and Add to cart for a user
 - Update Profile for user
-- Checkout using credit card and paypal (using Braintree as the payment gateway)
 - Advanced search filters based on category and price range
-- Books also categorized upon arrival date and bestsellers
-- Order confirmation through email
-- The admin can change the order status
+
 
 ## Technology Stack
 
@@ -41,7 +38,7 @@ A complete e-commerce app built on the MERN stack that sells developer books.
 
 ### Check out the deployed application at:
 
-- https://devbookstore.herokuapp.com/
+
 
 #### Contributiong
 
