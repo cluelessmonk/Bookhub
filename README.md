@@ -1,6 +1,6 @@
-# Dev-Bookstore
+#Bookhub
 
-A complete e-commerce app built on the MERN stack that sells developer books.
+A complete Library management app built on the MERN stack that manages  books available in library.
 
 ## Project Setup
 
@@ -18,10 +18,9 @@ A complete e-commerce app built on the MERN stack that sells developer books.
 
 ## Features
 
-- User signup/signin with welcome email
+- User signup/signin 
 - Create Category and Product by Admin
 - CRUD operations on products
-- Payment gateway (Braintree and Paypal)
 - View Product and Add to cart for a user
 - Update Profile for user
 - Advanced search filters based on category and price range
@@ -36,11 +35,10 @@ A complete e-commerce app built on the MERN stack that sells developer books.
 - React.js
 - Node.js
 
-### Check out the deployed application at:
 
 
 
-#### Contributiong
+
 
 Feel free to fork this repo and raise an issue or submit a PR in case of any bugs.
 
